@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Divert</string>
+    <string name="widget_label">Divert</string>
+    <string name="channel_window_name">Active window</string>
+    <string name="channel_window_desc">Shown only during the configured window while Divert watches for unlocks.</string>
+</resources>

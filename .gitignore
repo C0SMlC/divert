@@ -1,0 +1,15 @@
+# Local toolchain (portable JDK / Android SDK / Gradle)
+/.tools/
+
+# Build output
+/build/
+/app/build/
+.gradle/
+
+# Local config
+local.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
