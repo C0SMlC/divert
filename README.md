@@ -196,7 +196,7 @@ Issues and pull requests are welcome. Please keep the app minimal, battery‑eff
 
 ## 📄 License
 
-Released for personal and educational use. If you plan to redistribute, consider adding an open‑source license such as **MIT**.
+Released for personal and educational use.
 
 ---
 
